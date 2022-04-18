@@ -4,7 +4,7 @@ This is the repository for our paper *What GPT Knows About Who is Who*.
 
 Our abstract:
 
-*Recent works demonstrate that large pre-trained language models (LMs) are capable of many NLP tasks without additional training. Nonetheless, there is not much evaluation on coreference resolution, which is a crucial task for natural language understanding. In this paper, we introduce a QA-based prompt- engineering method to probe into generative LMs’ abilities. Our experiments show that pre-trained LMs like GPT-2 and GPT-Neo can return valid answers but their capabilities to identify coreferent mentions is limited. On this task, these models can hardly perform on par with a rule-based system. Worse still, their predictions are prompt-sensitive, leading to inconsistent results.*
+*Coreference resolution – which is a crucial task for understanding discourse and language at large – has yet to witness widespread benefits from large language models (LLMs). More- over, coreference resolution systems largely rely on supervised labels, which are highly ex- pensive and difficult to annotate, thus making it ripe for prompt engineering. In this paper, we introduce a QA-based prompt-engineering method and discern generative, pre-trained LLMs’ abilities and limitations toward the task of coreference resolution. Our experiments show that GPT-2 and GPT-Neo can return valid answers, but that their capabilities to identify coreferent mentions are limited and prompt- sensitive, leading to inconsistent results*
 
 
 ## Environment Setup
