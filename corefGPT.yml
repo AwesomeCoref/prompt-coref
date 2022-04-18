@@ -1,0 +1,40 @@
+name: corefGPT
+channels:
+  - anaconda
+  - pytorch
+  - conda-forge
+
+dependencies:
+  - python=3.8
+
+  - docopt
+  - nltk
+  - scikit-learn
+  - spacy
+  - pytorch
+  - torchtext
+  - torchvision
+  - tokenizers
+  - transformers
+  - IPython
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pillow
+  - pip
+  - requests
+  - scipy
+  - scikit-image
+  - scikit-learn
+  - seaborn
+  - spacy
+  - statsmodels
+  - python-dotenv
+
+  - pip:
+    - flatbuffers
+    - smart-open
+    - torchsummary
+    - openai
