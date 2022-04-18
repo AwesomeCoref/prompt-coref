@@ -33,6 +33,7 @@ You will need to download the "Data" and "Results" folders from [our drive](http
 
 And you will need to download the "models" folder from [Models/Streamline from our drive](https://drive.google.com/drive/folders/1VvoF_6IGiN4_o-8xpFLO1TQ6h1-nRwl_) and place that locally under Models/Streamline, so the path is Models/Streamline/models.
 
+### Setting up the right paths
 
 Lastly, when running the notebooks you have to change the lines the prefix the grdrive path with the local path. So this:
 ```python
