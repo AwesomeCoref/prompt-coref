@@ -1,0 +1,12 @@
+# misc
+.DS_Store
+.idea
+_test
+local_code
+.vscode
+eda/cross-doc-event-coref-master
+.env
+
+# Data and results
+Data/
+Results/
