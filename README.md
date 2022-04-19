@@ -9,12 +9,7 @@ Our abstract:
 
 ## Environment Setup
 
-### Option 1 - Colab
-The most easy way to run the notebooks from this project is our [Gdrive version of this project](https://drive.google.com/drive/folders/1pBpo-uD_HFropodUNIFH3nmh37blK9hF?usp=sharing).
-
-You only need to add a shortcut of this folder to your own drive, which makes sure it all the paths used match and work.
-
-### Option 2 - Local environment
+### Local environment
 
 You can create the required conda env with:
 
@@ -28,10 +23,7 @@ Then you can start the conda env with:
 conda activate corefGPT
 ```
 
-You will need to download the "Data" and "Results" folders from [our drive](https://drive.google.com/drive/folders/1pBpo-uD_HFropodUNIFH3nmh37blK9hF?usp=sharing) and place them in the root of this directory
-
-
-And you will need to download the "models" folder from [Models/Streamline from our drive](https://drive.google.com/drive/folders/1VvoF_6IGiN4_o-8xpFLO1TQ6h1-nRwl_) and place that locally under Models/Streamline, so the path is Models/Streamline/models.
+To start easily, you can download our processed ECB+ files from [here](https://drive.google.com/file/d/1jQB8lmtfbgN0rWCyeKBfRn81gCCfTcxT/view?usp=sharing) and place them in the root of this directory. Moreover, to experiment with the Streamlining model, you can download our trained model from [here](https://drive.google.com/file/d/1UW9qpKl6gQD8ysvke-lUNMcd-HjhTfr6/view?usp=sharing) and place that locally under Models/Streamline.
 
 ### Setting up the right paths
 
